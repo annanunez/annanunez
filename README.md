@@ -14,6 +14,8 @@ Me chamo Anna Luiza e estou no último semestre do curso técnico em **Desenvolv
 
 ---
 
+
+
 ### 🛠️ Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -21,13 +23,18 @@ Me chamo Anna Luiza e estou no último semestre do curso técnico em **Desenvolv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
 
 ---
 
 ### ✒️ Frase Motivacional
   "É justo que muito me custe, o que muito me vale"
 
+---
+📊 Estatísticas do GitHub
+<div align="center"> <a href="https://github.com/annanunez"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petinelson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petinelson&layout=compact&langs_count=10&theme=dracula"/> </a> </div>
 ---
 
 📫 *Vamos nos conectar?*  

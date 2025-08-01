@@ -1,6 +1,6 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Me chamo *Anna Luiza* e estou no último semestre do curso técnico em *Desenvolvimento de Sistemas. Em breve, iniciarei minha graduação em **Sistemas de Informação*, dando continuidade à minha curiosidade por tecnologia, lógica e resolução de problemas.
+Me chamo Anna Luiza e estou no último semestre do curso técnico em Desenvolvimento de Sistemas. Em breve, iniciarei minha graduação em Sistemas de Informação, dando continuidade à minha curiosidade por tecnologia, lógica e resolução de problemas.
 ---
 ### 🚀 Sobre mim
 

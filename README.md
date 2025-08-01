@@ -3,7 +3,7 @@
 
 ---
 ### 🚀 Sobre mim
-Me chamo Anna Luiza e estou no último semestre do curso técnico em *Desenvolvimento de Sistemas*. Em breve, iniciarei minha graduação em Sistemas de Informação, dando continuidade à minha curiosidade por tecnologia, lógica e resolução de problemas.
+Me chamo Anna Luiza e estou no último semestre do curso técnico em **Desenvolvimento de Sistemas**. Em breve, iniciarei minha graduação em Sistemas de Informação, dando continuidade à minha curiosidade por tecnologia, lógica e resolução de problemas.
 
 - 🎓 Estudante dedicada e curiosa, sempre buscando aprender mais sobre programação e desenvolvimento web.
 - 💻 Atualmente focada em aprimorar minhas habilidades com *HTML, CSS, JavaScript, Python* e *bancos de dados*.

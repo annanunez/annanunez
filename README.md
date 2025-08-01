@@ -38,14 +38,14 @@ Me chamo Anna Luiza e estou no último semestre do curso técnico em **Desenvolv
 
 <div align="center">
   <a href="https://github.com/annanunez">
-    <img height="" src="https://github-readme-stats.vercel.app/api?username=annanunez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=annanunez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annanunez&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
 
 
 
-📫 *Vamos nos conectar?*  
+### 📫 Vamos nos conectar? 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/annaanunezz/) ou entrar em contato por [e-mail:] annaluizanunes007@gmail.com
 
 ---

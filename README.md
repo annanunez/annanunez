@@ -1,4 +1,5 @@
-## 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+
+<h1 align="center">👋 Olá! Seja bem-vindo(a) ao meu GitHub!</h1> <p align="center"> <img src="https://github.com/annanunez/annanunez/blob/main/assets/IMG_6702_VSCO.JPEG" alt="Eu" width="200"/> </p> 
 
 
 ---

@@ -33,9 +33,16 @@ Me chamo Anna Luiza e estou no último semestre do curso técnico em **Desenvolv
   "É justo que muito me custe, o que muito me vale"
 
 ---
-📊 Estatísticas do GitHub
-<div align="center"> <a href="https://github.com/annanunez"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petinelson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petinelson&layout=compact&langs_count=10&theme=dracula"/> </a> </div>
----
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/annanunez">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annanunez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annanunez&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
+
 
 📫 *Vamos nos conectar?*  
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/annaanunezz/) ou entrar em contato por [e-mail:] annaluizanunes007@gmail.com
